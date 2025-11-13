@@ -1,3 +1,4 @@
 nom: Enzo
 age : 21
 artiste : Muse
+couleur : jaune
